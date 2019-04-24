@@ -5,8 +5,8 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-[![Prototype Video](https://drive.google.com/open?id=1x0rf8Cp1dbYSlTt51WrIS8VhBv_wmfsS)]
-
+[![Prototype Video](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Protoype.png)]
+(https://drive.google.com/open?id=1x0rf8Cp1dbYSlTt51WrIS8VhBv_wmfsS)
 ---
 
 ## Part A: Usability Evaluation
