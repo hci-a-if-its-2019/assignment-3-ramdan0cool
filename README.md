@@ -23,10 +23,10 @@
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+- User is a 20 years old woman of Indonesian origin.
+- User is an undergraduate student, currently studying in ITS.
+- Preferred using mobile over desktop for casual browsing.
+- User frequently access internet for 18 hours on daily basis.
 
 #### b. Description of Participant 2
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -47,10 +47,41 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+Note:
+A: Me
+B: Participant
+
+1. A: Aku punya beberapa tugas untukmu, pertama melakukan sign up dan login, kemudian kedua ke halaman account. Ketiga setelah balik ke main menu membuka satu cerita. Terakhir dari halaman cerita langsung masuk ke account.
+2. B: Ini beneran ini?
+3. A: Yg mana?
+4. B: Bukan, maksudnya pakai email?
+5. A: Email tidak harus asli, selama masih kelihatan seperti e-mail
+6. B: *Enter the email and password, successfully sign up*
+7. A: Oke, sekarang sudah kedaftar, masuk ke tugas kedua. Tolong buka halaman account dan ubah profilmu disana.
+8. B: Kok kayak gak bisa? *Pressing the email teks and not the actual account button*
+9. A: Tombolnya yang disebelahnya, account itu.
+10. B: Oh, ya bisa *Participant enter the account page*
+11. A: Oke, udah bisa ya. Tugas kedua selesai. Sekarang kamu balik ke halaman utama terus pilih salah satu cerita dari kategori apa aja. Aslinya ada cerita satu tapi aku gak bisa masukin.
+12. B: Oke, ini bisa pilih yang mana aja?
+13. A: Iya.
+14. B: Ini yang crossover apa?
+15. A: Itu sebenarnya ada halamannya sendiri, tetapi halaman itu adalah copy dari halaman fanfiction.
+16. B: Oh, oke. *Participant click the fanfiction/anime and manga button*
+17. B: Udah kebuka.
+18. A: Tugas ketiga sudah selesai berarti. Yang terakhir coba kamu akses halaman account dan ganti nama user mu.
+19. B: *Click the account button and change her name*
+20. A: Dan itu keempat-empatnya. Sekarang, input dari kamu mengenai desain ini bagaimana?
+21. B: Kalau dari halaman accountnya, yang ini lebih jelas. Kalau kemarin kayak masih banyak yang ambigu dan aku sendiri tidak mengerti mengedit profile itu bagaimana.
+22. B: Terus, apa ya. Apalagi tugas setelah account tadi.
+23. A: Tadi itu masalah tentang main menu.
+24. B: Oh ya, jadi kemarin itu memang pakai hyperlink gitu kan, bukan kayak button begini. Menurutku ini lebih memudahkan, banget. Yang kemarin itu juga kebanyakan, iya gak sih?
+25. A: Semacam itu, iya.
+26. B: Jadi setelah kita log in atau sign up, terus ada tulisan account lagi yang sama kayak tadi akhirnya kebingungan. Kalau misalnya kata account bisa diganti dengan nama atau email kita.
+27. B: Tampilannya ini juga termasuk gitu?
+28. A: Terserah, ini pendapat kamu.
+29. B: Menurutku kurang warnanya.
+30. A: Kurang yang mana?
+31.B: *Points to the category buttons* Kalau misal di Google warna ini berarti sudah pernah di klik semua. Jadi bagusnya dibikin lebih terang gitu.
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
