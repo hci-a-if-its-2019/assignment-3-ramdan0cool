@@ -81,7 +81,7 @@ B: Participant
 28. A: Terserah, ini pendapat kamu.
 29. B: Menurutku kurang warnanya.
 30. A: Kurang yang mana?
-31.B: *Points to the category buttons* Kalau misal di Google warna ini berarti sudah pernah di klik semua. Jadi bagusnya dibikin lebih terang gitu.
+31. B: *Points to the category buttons* Kalau misal di Google warna ini berarti sudah pernah di klik semua. Jadi bagusnya dibikin lebih terang gitu.
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
