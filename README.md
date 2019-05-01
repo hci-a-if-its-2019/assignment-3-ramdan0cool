@@ -5,7 +5,7 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-![Prototype Video](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Protoype.png)
+![Prototype Video](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Image/Protoype.png)
 (https://drive.google.com/open?id=1x0rf8Cp1dbYSlTt51WrIS8VhBv_wmfsS)
 ---
 
@@ -32,10 +32,12 @@
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+Note: The following task are the same as the first assignment's questions
+
+- Login to FanFiction.net using social media account (Assumption: the user have at least one social media account).
+- Choose one category and read one story of that category. (The user only need to open a story).
+- Open profile page.
+- Edit user profile.
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
