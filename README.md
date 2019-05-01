@@ -93,7 +93,7 @@ B: Participant
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Prototype Screen 1](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Image/Screen1.png)
 
  - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
  - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
@@ -102,7 +102,7 @@ B: Participant
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Prototype Screen 2](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Image/Screen2.png)
 
  - **Reference**: 
  - **Feedback**: 
@@ -111,7 +111,7 @@ B: Participant
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
  
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![Prototype Screen 3](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Image/Screen3.png)
 
  - **Reference**:  
  - **Feedback**: 
