@@ -58,7 +58,7 @@ B: Participant
 5. A: Email tidak harus asli, selama masih kelihatan seperti e-mail
 6. B: *Enter the email and password, successfully sign up*
 7. A: Oke, sekarang sudah kedaftar, masuk ke tugas kedua. Tolong buka halaman account dan ubah profilmu disana.
-8. B: Kok kayak gak bisa? *Pressing the email teks and not the actual account button*
+8. B: Kok kayak gak bisa? *Pressing the email text and not the actual account button*
 9. A: Tombolnya yang disebelahnya, account itu.
 10. B: Oh, ya bisa *Participant enter the account page*
 11. A: Oke, udah bisa ya. Tugas kedua selesai. Sekarang kamu balik ke halaman utama terus pilih salah satu cerita dari kategori apa aja. Aslinya ada cerita satu tapi aku gak bisa masukin.
@@ -95,33 +95,30 @@ B: Participant
 #### OBSERVATION 1
 ![Prototype Screen 1](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Image/Screen1.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
+ - **Reference**: Participant 1: 1, 8, 24
+ - **Feedback**: Participant 1: The category button's color can be made brighter, the account button changed to user's email or username after successful login or sign up, the layout is lighter and nice
+ - **Incidence**: Participant 1: Click the email text instead of the actual account button.
+ - **Reason**: Participant 1: Confusion between the convention where the email text is a hyperlink to the user's account page
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
  
 #### OBSERVATION 2
 ![Prototype Screen 2](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Image/Screen2.png)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
+ - **Reference**: Participant 1: 10, 21
+ - **Feedback**: Particiapnt 1: The layout is good, easier to read and understand.
+ - **Incidence**: Participant 1: -
+ - **Reason**: Participant 1: -
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
  
 #### OBSERVATION 3
 ![Prototype Screen 3](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Image/Screen3.png)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
+ - **Reference**:  Participant 1: 16
+ - **Feedback**: Participant 1: -
+ - **Incidence**: Participant 1: -
+ - **Reason**: Participant 1: -
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
- 
- ---
+
 
 ## Part B: Prototyping (again)
 > Next, you will need to modify your prototype 
