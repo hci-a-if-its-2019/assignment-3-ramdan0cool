@@ -86,10 +86,29 @@ B: Participant
 31. B: *Points to the category buttons* Kalau misal di Google warna ini berarti sudah pernah di klik semua. Jadi bagusnya dibikin lebih terang gitu.
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+1. B: Jadi ini mau diapakan?
+2. A: Saya disini mau meminta pendapat mas mengenai website ini. Sebelumnya, ada beberapa, katakanlah tugas,yang dilakukan sebelum impresi dari mas.
+3. B: Oke, apa aja yg mau dilakukan?
+4. A: Buat yg pertama, mas coba sign up lalu ke halaman account.
+5. B: *Signs up and open account page*
+6. B: Ini udah masuk.
+7. A: Oke, yang pertama sudah selesai. Tugas kedua sekarang balik ke halaman utama tadi lalu pilih salah satu kategori dan masuk k halaman pilihan cerita.
+8. B: Berarti tinggal back terus pilihan-pilihan tadi ya? *Goes back to main menu and select one of the option*
+9. A: Ya.
+10. B: Terus tugas ketiga apa?
+11. A: Tugas ketiga itu membuka halaman profil dari halaman ini.
+12. B: Ke halaman yang tadi ya?
+13. A: Iya.
+14. B: *Click the email text instead of the account button* Gak bisa, Dan.
+15. A: Yg tombol account itu mas.
+16. B: Oh yang ini ternyata. *Press the account button*
+17. A: Berarti sudah semua.
+18. B: Jadi, habis ini apa?
+19. A: Saya mau impresi pertama mas tentang web ini.
+20. B: Kalau dari saya, layoutnya sudah bagus, tapi ini ada banyak ruang kosong, jadi mungkin bisa diisi
+21. A: Oke, lalu?
+22. B: Sebenarnya tidak ada lagi karena memang sederhana ya. Apalagi karena masih sederhana juga jadi memang sedikit yang diinteraksikan
+23. A: Baik mas, makasih untuk masukannya.
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
@@ -97,11 +116,11 @@ B: Participant
 #### OBSERVATION 1
 ![Prototype Screen 1](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Image/Screen1.png)
 
- - **Reference**: Participant 1: 1, 8, 24
- - **Feedback**: Participant 1: The category button's color can be made brighter, the account button changed to user's email or username after successful login or sign up, the layout is lighter and nice
- - **Incidence**: Participant 1: Click the email text instead of the actual account button.
- - **Reason**: Participant 1: Confusion between the convention where the email text is a hyperlink to the user's account page
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: Participant 1: 1, 8, 24 Participant 2: 5
+ - **Feedback**: Participant 1: The category button's color can be made brighter, the account button changed to user's email or username after successful login or sign up, the layout is lighter and nice. Participant 2: Fill empty space.
+ - **Incidence**: Participant 1: Click the email text instead of the actual account button. Participant 2: -
+ - **Reason**: Participant 1: Confusion between the convention where the email text is a hyperlink to the user's account page. Participant 2: -
+ - **Resolution**: Recolor buttons and stretch or rearrange the buttons.
  
 #### OBSERVATION 2
 ![Prototype Screen 2](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Image/Screen2.png)
