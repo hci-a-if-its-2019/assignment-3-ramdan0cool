@@ -29,12 +29,14 @@
 - User frequently access internet for 18 hours on daily basis.
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+- User is a 20 years old man of Indonesian origin.
+- User is an undergraduate student, currently studying in ITS.
+- User frequently access internet for 7 hours on daily basis, mostly social media.
 
 ### 2. Evaluation Script
 Note: The following task are the same as the first assignment's questions
 
-- Login to FanFiction.net using social media account (Assumption: the user have at least one social media account).
+- Sign up to protoype website.
 - Choose one category and read one story of that category. (The user only need to open a story).
 - Open profile page.
 - Edit user profile.
@@ -105,7 +107,7 @@ B: Participant
 17. A: Berarti sudah semua.
 18. B: Jadi, habis ini apa?
 19. A: Saya mau impresi pertama mas tentang web ini.
-20. B: Kalau dari saya, layoutnya sudah bagus, tapi ini ada banyak ruang kosong, jadi mungkin bisa diisi
+20. B: Kalau dari saya, layoutnya sudah bagus, tapi ini ada banyak ruang kosong, jadi mungkin bisa diisi. *Participant refers to the main menu*
 21. A: Oke, lalu?
 22. B: Sebenarnya tidak ada lagi karena memang sederhana ya. Apalagi karena masih sederhana juga jadi memang sedikit yang diinteraksikan
 23. A: Baik mas, makasih untuk masukannya.
@@ -125,20 +127,20 @@ B: Participant
 #### OBSERVATION 2
 ![Prototype Screen 2](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Image/Screen2.png)
 
- - **Reference**: Participant 1: 10, 21
- - **Feedback**: Particiapnt 1: The layout is good, easier to read and understand.
- - **Incidence**: Participant 1: -
- - **Reason**: Participant 1: -
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reference**: Participant 1: 10, 21. Participant 2: 8, 20
+ - **Feedback**: Participant 1: The layout is good, easier to read and understand. Participant 2: -
+ - **Incidence**: Participant 1: -. Participant 2: -
+ - **Reason**: Participant 1: -. Participant 2: -
+ - **Resolution**: No resolution is necessary.
  
 #### OBSERVATION 3
 ![Prototype Screen 3](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Image/Screen3.png)
 
- - **Reference**:  Participant 1: 16
- - **Feedback**: Participant 1: -
- - **Incidence**: Participant 1: -
- - **Reason**: Participant 1: -
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Reference**:  Participant 1: 16, Participant 2: 8
+ - **Feedback**: Participant 1: -. Participant 2: -
+ - **Incidence**: Participant 1: -. Participant 2: -
+ - **Reason**: Participant 1: -. Participant 2: -
+ - **Resolution**: No resolution is necessary
 
 
 ## Part B: Prototyping (again)
