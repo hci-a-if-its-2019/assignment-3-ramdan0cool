@@ -152,12 +152,10 @@ B: Participant
 > Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
 > Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![Sketch of Refined Prototype](https://github.com/hci-a-if-its-2019/assignment-3-ramdan0cool/blob/master/Image/DSC_0016.JPG)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+For a website simply made for story archive, a simple and intuitive design is mandatory. Symmetry and color play an important part of this. And users, while disliking some part where there are too many things on the screen, they also disliking parts where there are too many blank spots.
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+![Interactive Revised Prototype](https://fanfictionet.bubbleapps.io/version-test)
